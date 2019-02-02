@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MutilLanguage</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="language_settings">language settings</string>
+    <string name="confirm_change_language">确认修改语言？</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确认</string>
+    <string-array name="language">
+        <item>跟随系统语言</item>
+        <item>中文简体</item>
+        <item>English</item>
+    </string-array>
+</resources>
