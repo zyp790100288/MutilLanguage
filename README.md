@@ -57,3 +57,7 @@ Android7.0及以上和以下语言切换和获取的方法
             super.attachBaseContext(newBase)
         }
         
+        
+        
+###########################
+Local.CHINA(zh_CN) 和 Local.CHINESE (zh)在部分手机上对应的资源文件不一样
